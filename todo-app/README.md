@@ -18,37 +18,37 @@ A continuación se muestran las capturas que documentan toda la conversación y 
 ### 1️⃣ Solicitud inicial
 Pedí a Amazon Q Developer crear un To-Do List en React que permita agregar, marcar como completadas y eliminar tareas, usando localStorage.
 
-![Solicitud inicial](./src/assets/imagen1.png)
+![Solicitud inicial](./src/assets/1.png)
 
 ### 2️⃣ Implementación sugerida
 Amazon Q me muestra cómo implementó la lógica de la aplicación, incluyendo el manejo de tareas y el estado.
 
-![Implementación sugerida](./src/assets/imagen2.png)
+![Implementación sugerida](./src/assets/2.png)
 
 ### 3️⃣ Instrucciones de ejecución
 Me explica cómo ejecutar la aplicación localmente, incluyendo instalación de dependencias y comandos de Vite.
 
-![Instrucciones de ejecución](./src/assets/imagen3.png)
+![Instrucciones de ejecución](./src/assets/3.png)
 
 ### 4️⃣ Estilos y diseño
 Solicité un estilo especial en App.css, con fondo azul marino oscuro (#0b0d1a), contornos morados (#a45fff), líneas blancas, iconos de nubes y destellos, y una imagen capybara.png.
 
-![Estilos y diseño](./src/assets/imagen4.png)
+![Estilos y diseño](./src/assets/4.png)
 
 ### 5️⃣ Posicionamiento de elementos
 Indiqué que los elementos deben estar centrados, con iconos de nubes (nube.png, nube2.png) y destellos (destello.png, destello_nube.png). La capybara debe estar en el margen inferior derecho.
 
-![Posicionamiento de elementos](./src/assets/imagen5.png)
+![Posicionamiento de elementos](./src/assets/5.png)
 
 ### 6️⃣ Uso de imágenes en App.jsx
 Amazon Q me muestra cómo incluir correctamente todas las imágenes en el componente principal App.jsx.
 
-![Uso de imágenes en App.jsx](./src/assets/imagen6.png)
+![Uso de imágenes en App.jsx](./src/assets/6.png)
 
 ### 7️⃣ Resultados finales
 Captura de los cambios finales realizados, mostrando la app con estilo completo y funcionalidades implementadas.
 
-![Resultados finales](./src/assets/imagen7.png)
+![Resultados finales](./src/assets/8.png)
 
 ## 🚀 Instalación y ejecución
 
@@ -94,13 +94,13 @@ src/
     ├── destello.png
     ├── destello_nube.png
     ├── capybara.png
-    ├── imagen1.png
-    ├── imagen2.png
-    ├── imagen3.png
-    ├── imagen4.png
-    ├── imagen5.png
-    ├── imagen6.png
-    └── imagen7.png
+    ├── 1.png
+    ├── 2.png
+    ├── 3.png
+    ├── 4.png
+    ├── 5.png
+    ├── 6.png
+    └── 8.png
 ```
 
 ## 🔧 Funcionamiento técnico
